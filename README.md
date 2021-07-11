@@ -27,8 +27,7 @@
 *Canada* - **[UTC -08:00]**
 
 ### ⌨️ Currently working on ⌨️
-- [The Bacon Colony](https://discord.gg/yDzePAVj6F)
-- [Wicked City Network](https://discord.gg/ueUchyTdNw)
+- [Patrix's Island Paradise](https://discord.gg/bcB2k2YN3m)
 
 ### ⌨️ Latest projects ⌨️
 - COMING SOON!
