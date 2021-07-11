@@ -36,8 +36,8 @@
 - i work at a hotel
 
 ### ⚡ GitHub Stats ⚡
-[![trophy](https://github-profile-trophy.vercel.app/?username=taylorthedevghost&margin-w=15&title=Commit,PR,Repo,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iCustomBacon&margin-w=15&title=Commit,PR,Repo,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=taylorthedevghost&count_private=true&show_icons=true&theme=graywhite)
+![My github stats](https://github-readme-stats.vercel.app/api?username=iCustomBacon&count_private=true&show_icons=true&theme=graywhite)
 
-![My top langs](https://github-readme-stats.vercel.app/api/top-langs?username=taylorthedevghost&layout=compact&theme=graywhite&hide=html,css)
+![My top langs](https://github-readme-stats.vercel.app/api/top-langs?username=iCustomBacon&layout=compact&theme=graywhite&hide=html,css)
